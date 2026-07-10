@@ -1,0 +1,7 @@
+{
+  "name": "bwa-total-pest-supply-i2f5",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  }
+}
